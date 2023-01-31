@@ -1,9 +1,9 @@
 const emojis = ['😃', '😎', '😍', '😜', '🔥'];
 
 export const todos = [
-  { id: 1, text: 'Learn Blockchain Development', completed: false },
-  { id: 2, text: 'Panaverse Assignments Completed', completed: false },
-  { id: 3, text: 'Building dapps with Next.js 13', completed: false }
+  { id: 1, text: 'Learn Blockchain Development 😍', completed: false },
+  { id: 2, text: 'Panaverse Assignments Completed 🔥', completed: false },
+  { id: 3, text: 'Building dapps with Next.js 13 😎', completed: false }
 ];
 
 export function addTodo(text) {
